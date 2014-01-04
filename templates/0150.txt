@@ -1,0 +1,1 @@
+|0150|{@cod_part}|{@nome}|{@cod_pais}|{@cnpj}|{@cpf}||{@uf}|{@ie}|{@ie_st}|{@cod_mun}|{@insc_mun}|{@suframa}|

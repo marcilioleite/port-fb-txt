@@ -1,0 +1,1 @@
+|0005|{@nome_responsavel}|{@cod_qualif_assinante}|{@cpf_responsavel}|{@cep}|{@endereco}|{@numero}|{@complemento}|{@bairro}|{@cep_cp}|{@caixa_postal}|{@fone}|{@fax}|@{email}|

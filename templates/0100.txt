@@ -1,0 +1,1 @@
+|0100|{@nome_contabilista}|{@cod_qualif_assinante}|{@cnpj_contabilista}|{@cpf_contabilista}|{@crc_contabilista}|{@cep_contabilista}|{@endereco_contabilista}|{@numero_contabilista}|{@bairro_contabilista}|{@uf_contabilista}|{@cod_municipio_contabilista}|{@cep_cp_contabilista}|{@cp_contabilista}|{@fone_contabilista}|{@fax_contabilista}|{@email_contabilista}|

@@ -1,0 +1,1 @@
+|0460|{@id_doc_arrecad}|{@descricao_doc_arrecad}|{@uf}|{@cod_municipio}|{@periodo_fiscal}|{@num_doc_arrecad}|{@data_venc_doc_arrecad}|{@valor_desconto}|{@valor_multa_mora}|{@valor_juros}|{@valor_multas}|{@valor_pgto}|{@data_pgto}|{@aut_bancaria}|

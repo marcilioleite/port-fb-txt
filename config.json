@@ -1,0 +1,13 @@
+{
+	"firebird":
+	{
+		"dsn": "database.fdb",
+		"usr": "sysdba",
+		"psw": "masterkey"
+	},
+	"datas":
+	{
+		"ini": "01/12/2013",
+		"fin": "04/01/2014"
+	}
+}

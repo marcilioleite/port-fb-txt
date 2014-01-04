@@ -1,0 +1,1 @@
+|0210|{@cod}|{@unidade_item}|{@quantidade}|{@unidade_comp}|{@data_ini_comp}|{@data_fin_comp}|{@ind_alteracao}|{@taxa_alteracao}|

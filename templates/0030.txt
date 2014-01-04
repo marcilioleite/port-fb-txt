@@ -1,0 +1,1 @@
+|0030|{@indicador_entr_dados}|{@indicador_arquivo}|{@indicador_exig_iss}|{@indicador_exig_icms}|{@indicador_exig_ridf}|{@indicador_exig_rudf}|{@indicador_exig_lmc}|{@indicador_exig_rv}|{@indicador_exig_ri}|{@indicador_escr_contabil}|{@indicador_iss}|{@indicador_rt}|{@indicador_icms}|{@indicador_st}|{@indicador_at}|{@indicador_ipi}|{@indicador_ri}|

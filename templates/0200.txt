@@ -1,0 +1,1 @@
+|0200|{@cod}|{@descricao}|{@cod_genero}|{@cod_lista}|

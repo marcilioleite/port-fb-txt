@@ -1,0 +1,1 @@
+|0470|{@cod_mod_doc_fiscal}|{@num_caixa}|{@num_serie_fabric_ecf}|{@contador_reinicio_operacao}|{@contador_reducao_z}|{@num_doc_fiscal}|{@data_doc_fiscal}|{@valor_doc_fiscal}|{@valor_iss}|{@valor_icms}|

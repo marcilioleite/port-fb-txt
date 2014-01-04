@@ -1,0 +1,1 @@
+|0000|LFPD|{@data_inicial}|{@data_final}|{@nome_empr}|{@cnpj}|{@uf}|{@ie}|{@cod_municipio}|{@insc_municipal}||||{@suframa}|{@cod_versao_leiaute}|{@cod_finalidade_arquivo}|{@cod_conteudo_arquivo}|Brasil|{@fantasia}|{@nire}|{@cpf}|||

@@ -1,0 +1,1 @@
+|0205|{@cod_item_ante}|{@descricao_item_ante}|{@data_inicial_item_ante}|{@data_final_item_ante}|
